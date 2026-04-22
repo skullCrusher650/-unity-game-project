@@ -2,15 +2,8 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log("Student B: Enemy System Initialized!");
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Debug.Log("Student A: Game Started!");
     }
 }
