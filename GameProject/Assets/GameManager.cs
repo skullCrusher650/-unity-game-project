@@ -4,6 +4,7 @@ public class GameManager : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("Student A: Game Started!");
+        Debug.Log("Student B: Enemy System Initialized!");
     }
+    
 }
