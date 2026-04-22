@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    void Start()
-    {
-        Debug.Log("Student B: Enemy System Initialized!");
-    }
+   void Start()
+{
+    Debug.Log("Student A: Game Restarted!");
+}
     
 }
